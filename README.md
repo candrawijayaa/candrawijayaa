@@ -27,7 +27,7 @@ Selain itu, aku juga suka:
 
 | 🚀 Proyek              | ✨ Deskripsi                                                                 |
 |------------------------|------------------------------------------------------------------------------|
-| 🔗 [Webop](https://webop.site)        | Startup yang nyediain layanan pembuatan website & kursus online interaktif. |
+| 🔗 [Webop](https://webop.site](https://webop-rho.vercel.app)        | Startup yang nyediain layanan pembuatan website & kursus online interaktif. |
 | 🔐 Sistem Auth Laravel  | Login modern dengan upload gambar via Cloudinary, simpel dan aman.          |
 | 🧩 Tugas Kampus         | Mulai dari struktur C (`.h`, `.c`, `main.c`) sampai OOP Java untuk PBO.     |
 
