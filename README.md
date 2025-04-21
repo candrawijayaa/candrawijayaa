@@ -63,7 +63,7 @@ Selain itu, aku juga suka:
   <a href="https://www.instagram.com/candrawijayaa__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@candrawijayaa__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/candra" target="_blank">
+  <a href="https://www.linkedin.com/in/igaycw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-@candrawijayaa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/candrawijayaa" target="_blank">
