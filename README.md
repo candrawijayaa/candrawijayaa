@@ -24,7 +24,67 @@ Selain itu, aku juga suka:
 ---
 
 ## ⚙️ Tech Stack & Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candrawijayaa&layout=compact&theme=radical" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Candra GitHub Stats" />
+</p>
+Atau kalau kamu mau langsung mirip banget sama yang kamu kasih, yang hanya tampilkan total commits, PR, dan issue (versi clean, satu baris aja), ini dia:
+
+markdown
+Salin
+Edit
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&hide=contribs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
+</p>
+Tinggal pilih mau pakai yang mana. Kalau kamu mau custom tema (misalnya pastel, light, dark, ayu, tokyo night, dsb), tinggal bilang aja, aku siapin 😎
+
+
+
+
+
+
+
+Anda bilang:
+## ⚙️ Tech Stack & Tools
+
+
+---
+ini masih kosong
+
+
+ChatGPT bilang:
+Oke! Nih aku lengkapin bagian ⚙️ Tech Stack & Tools kamu, sekalian aku kasih icon-icon kece biar tampilan profil GitHub kamu makin estetik dan profesional 😎
+
+markdown
+Salin
+Edit
+## ⚙️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:alpine.js.svg?color=%2300a2ff" alt="Alpine.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:cloudinary.svg?color=%2300a8ff" alt="Cloudinary" width="40" height="40"/>
+</p>
 
 ---
 
