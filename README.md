@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/candrawijayaa"><img src="https://img.shields.io/github/followers/candrawijayaa?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:candrawijayaa@email.com"><img src="https://img.shields.io/badge/email-webop.id%40email.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ---
