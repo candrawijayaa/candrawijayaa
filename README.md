@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/candrawijayaa"><img src="https://img.shields.io/github/followers/candrawijayaa?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:candrawijayaa@email.com"><img src="https://img.shields.io/badge/email-candrawijayaa%40email.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:candrawijayaa@email.com"><img src="https://img.shields.io/badge/email-webop.id%40email.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ---
 
-## 🧑‍💻 Tentang Aku
+## 🧑‍💻 About Me
 
 Halo! Aku **Candra**, mahasiswa Informatika semester 3 yang lagi serius ngulik dunia pemrograman dan pengembangan web.  
 Mulai dari **backend** pakai Laravel, sampai ngulik **frontend** pakai Alpine.js & Tailwind CSS.  
@@ -23,34 +23,7 @@ Selain itu, aku juga suka:
 
 ---
 
-## ⚙️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:alpine.js.svg?color=%2300a2ff" alt="Alpine.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:cloudinary.svg?color=%2300a8ff" alt="Cloudinary" width="40" height="40"/>
-</p>
-
----
-
-
-## 🌟 Proyekku
+## 🌟 My Projects
 
 | 🚀 Proyek              | ✨ Deskripsi                                                                 |
 |------------------------|------------------------------------------------------------------------------|
@@ -60,7 +33,7 @@ Selain itu, aku juga suka:
 
 ---
 
-## 🧠 Bahasa Pemrograman yang Dikuasai
+## 🧠 Programming Languages I Know
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -86,9 +59,17 @@ Selain itu, aku juga suka:
 
 ## 📬 Connect with Me!
 
-- 📸 Instagram: [@candrakoding](https://instagram.com/candrakoding)
-- 💼 LinkedIn: [linkedin.com/in/candra](https://linkedin.com/in/candra)
-- 🌐 GitHub: [github.com/candrawijayaa](https://github.com/candrawijayaa)
+<p align="center">
+  <a href="https://www.instagram.com/candrawijayaa__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@candrawijayaa__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/candra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@candrawijayaa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/candrawijayaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@candrawijayaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
