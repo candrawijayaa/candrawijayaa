@@ -24,45 +24,6 @@ Selain itu, aku juga suka:
 ---
 
 ## ⚙️ Tech Stack & Tools
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candrawijayaa&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Candra GitHub Stats" />
-</p>
-Atau kalau kamu mau langsung mirip banget sama yang kamu kasih, yang hanya tampilkan total commits, PR, dan issue (versi clean, satu baris aja), ini dia:
-
-markdown
-Salin
-Edit
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&hide=contribs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true" />
-</p>
-Tinggal pilih mau pakai yang mana. Kalau kamu mau custom tema (misalnya pastel, light, dark, ayu, tokyo night, dsb), tinggal bilang aja, aku siapin 😎
-
-
-
-
-
-
-
-Anda bilang:
-## ⚙️ Tech Stack & Tools
-
-
----
-ini masih kosong
-
-
-ChatGPT bilang:
-Oke! Nih aku lengkapin bagian ⚙️ Tech Stack & Tools kamu, sekalian aku kasih icon-icon kece biar tampilan profil GitHub kamu makin estetik dan profesional 😎
-
-markdown
-Salin
-Edit
-## ⚙️ Tech Stack & Tools
 
 <p align="left">
   <!-- Backend -->
