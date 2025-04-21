@@ -28,17 +28,6 @@ Selain itu, aku juga suka:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candrawijayaa&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=candrawijayaa&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Candra GitHub Stats" />
-</p>
-
 
 ## 🌟 Proyekku
 
