@@ -43,7 +43,7 @@ Selain itu, aku juga suka:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/PKief/vscode-phpmyadmin-icon/main/icon.svg" alt="phpMyAdmin" width="40" height="40"/>
+  <img src="https://static.cdnlogo.com/logos/p/61/phpmyadmin.png" alt="phpMyAdmin" width="40" height="40"/>
 </p>
 
 
